@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/db/BookDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/db/Dao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/db/ReaderDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/model/Book.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/staticview/BookAdd.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/staticview/BookBorrow.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/staticview/BookReturn.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/staticview/BookSelectModify.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/staticview/BookTypeManage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/staticview/Library.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/staticview/Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/staticview/ReaderAdd.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/staticview/ReaderSelectModify.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/staticview/ReaderTypeManage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/staticview/UpdatePassword.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/staticview/UserAdd.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/staticview/UserDelete.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/view/BookAdd.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/view/BookBorrow.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/view/BookReturn.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/view/BookSelectModify.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/view/BookTypeManage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/view/Library.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/view/Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/view/ReaderAdd.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/view/ReaderSelectModify.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/view/ReaderTypeManage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/view/UpdatePassword.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/view/UserAdd.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bbm/view/UserDelete.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/bbm/db/TestBookDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/bbm/db/TestBookTypeDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/bbm/db/TestBorrowBookDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/bbm/db/TestReaderDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/bbm/db/TestReaderTypeDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/bbm/db/TestUserDao.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
